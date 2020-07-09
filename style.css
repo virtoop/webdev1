@@ -1,0 +1,113 @@
+
+.tabelatoda {
+
+}
+
+.elemento {
+
+width: 65px;
+height: 58px;
+border: 1px solid black;
+color: #333;
+font-weight: 700;
+display: inline-block;
+text-align: center;
+text-decoration: none;
+font-size: 10px;
+line-height: 60px;
+margin: -2px;
+
+}
+
+.elemento:hover {
+    filter: brightness(90%)
+}
+
+#nao-metais {
+
+background: #006400;
+}
+
+#metais-alcalinos {
+background-color: orange;
+}
+
+#metais-alcalinos-terrosos {
+background-color: #DAB80E;
+}
+
+#metais-de-transicao {
+background-color: #F08080;
+}
+
+#semi-metais {
+background-color: #2D02FF;
+}
+
+#outros-metais {
+background-color: #FF6347;
+}
+
+#halogenios {
+background-color: #87CEEB;
+}
+
+#gases-nobres {
+background-color: #5B69C8;
+}
+
+#lantanideos {
+background-color: #32CD32;
+}
+
+#acnideos {
+background-color: #C44BF8;
+border-width: 1px;
+}
+
+.linha1{
+	width: 50px
+	background-color: white;
+}
+
+.grs{
+	background-color:#A9A9A9;
+	box-shadow: 3px 7px 15px #000000;
+	margin: 0 auto
+	height: 130;
+}
+
+#branco{
+	background-color:#A9A9A9;
+	border: none;
+	border-color: none;
+	border-top:  1px solid inline-block;
+	border-bottom: 1px solid inline-block;
+	float: right;
+}
+
+p{
+	font-size: 12px;
+	position: relative;
+	top: -15px
+}
+
+a:link {
+   color:  white;
+   text-decoration:none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.rgs{
+	box-shadow: 3px 7px 15px #000000;
+	background-color:#A9A9A9;
+	margin: 0 auto;
+	font-size: 20px
+}
